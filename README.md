@@ -64,3 +64,5 @@ Este projeto utiliza um **Raspberry Pi Pico W** para controlar uma **matriz de L
   - **Botão B (GPIO 6)**: Liga/desliga o LED azul.
 
 ## **LINK PARA VÍDEO**
+
+https://youtu.be/iGBIHUDynlA
